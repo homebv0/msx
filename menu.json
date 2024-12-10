@@ -1,0 +1,41 @@
+{
+    "headline": "Welcome",
+    "menu": [
+        {
+            "icon": "star",
+            "label": "Shqip",
+            "extensionLabel": "Alb",
+            "data": "http://msx.benzac.de/services/m3u.php?type=video&url=http://iptv-org.github.io/iptv/languages/sqi.m3u"
+        },
+        {
+            "icon": "living",
+            "label": "Turkish",
+            "extensionLabel": "Tur",
+            "data": "http://msx.benzac.de/services/m3u.php?type=video&url=http://iptv-org.github.io/iptv/languages/tur.m3u"
+        },
+        {
+            "icon": "movie",
+            "label": "Movies",
+            "extensionLabel": "Films",
+            "data": "http://msx.benzac.de/services/m3u.php?type=video&url=http://iptv-org.github.io/iptv/categories/movies.m3u"
+        },
+        {
+            "icon": "sports-soccer",
+            "label": "Sports",
+            "extensionLabel": " ",
+            "data": "http://msx.benzac.de/services/m3u.php?type=video&url=http://iptv-org.github.io/iptv/categories/sports.m3u"
+        },
+        {
+            "icon": "euro",
+            "label": "Europe",
+            "extensionLabel": "EU",
+            "data": "http://msx.benzac.de/services/m3u.php?type=video&url=http://iptv-org.github.io/iptv/regions/emea.m3u"
+        },
+        {
+            "icon": "star",
+            "label": "Kosovo TV",
+            "extensionLabel": "KS",
+            "data": "http://msx.benzac.de/services/m3u.php?type=video&url=http://iptv-org.github.io/iptv/countries/xk.m3u"
+        }
+    ]
+}
