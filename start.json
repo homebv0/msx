@@ -1,5 +1,5 @@
 {
     "name": "IPTV Menu",
     "version": "1.0.0",
-    "parameter": "menu:http://tv.servesoftware.com.de/msx/menu.json"
+    "parameter": "menu:http://tmp505.github.io/msx/menu.json"
 }
