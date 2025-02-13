@@ -45,9 +45,15 @@
         },
         {
             "icon": "cottage",
-            "label": "TheTV",
+            "label": "VOD",
+            "extensionLabel": "VideoOnDemand",
+            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://raw.githubusercontent.com/jromero88/iptv/master/VOD.m3u"
+        },
+        {
+            "icon": "live-tv",
+            "label": "TV Mate",
             "extensionLabel": "IPTV",
-            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://bit.ly/tta-m3u"
+            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://raw.githubusercontent.com/jromero88/iptv/master/TiviMate.m3u"
         }
     ]
 }
