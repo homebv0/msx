@@ -66,6 +66,6 @@
             "label": "MoviesVOD",
             "extensionLabel": "VOD",
             "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://raw.githubusercontent.com/mickflix/Mickflix-IPTV/master/playlist.m3u"
-        },
+        }
     ]
 }
