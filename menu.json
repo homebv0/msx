@@ -4,25 +4,25 @@
         {
             "icon": "star",
             "label": "Shqip",
-            "extensionLabel": "ALB",
+            "extensionLabel": "Live",
             "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://iptv-org.github.io/iptv/languages/sqi.m3u"
         },
         {
             "icon": "living",
             "label": "Turkish",
-            "extensionLabel": "TUR",
+            "extensionLabel": "Live",
             "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://iptv-org.github.io/iptv/languages/tur.m3u"
         },
         {
             "icon": "movie",
             "label": "Movies",
-            "extensionLabel": "Films",
-            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://iptv-org.github.io/iptv/categories/movies.m3u"
+            "extensionLabel": "VOD",
+            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://raw.githubusercontent.com/xteriumboy/MOVIES-iptV/master/VOD.m3u"
         },
         {
             "icon": "sports-soccer",
             "label": "Sports",
-            "extensionLabel": " ",
+            "extensionLabel": "Live",
             "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://iptv-org.github.io/iptv/categories/sports.m3u"
         },
         {
@@ -54,6 +54,14 @@
             "label": "Sports",
             "extensionLabel": "IPTV",
             "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://www.apsattv.com/sportstv.m3u"
+        },
+        {
+            "icon": "live-tv",
+            "label": "Sports",
+            "extensionLabel": "IPTV",
+            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://www.apsattv.com/sportstv.m3u"
         }
+
+        
     ]
 }
