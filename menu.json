@@ -45,15 +45,15 @@
         },
         {
             "icon": "cottage",
-            "label": "VOD",
+            "label": "tcl",
             "extensionLabel": "VideoOnDemand",
-            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://raw.githubusercontent.com/jromero88/iptv/master/VOD.m3u"
+            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://www.apsattv.com/tcl.m3u"
         },
         {
             "icon": "live-tv",
-            "label": "TV Mate",
+            "label": "Sports",
             "extensionLabel": "IPTV",
-            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://raw.githubusercontent.com/jromero88/iptv/master/TiviMate.m3u"
+            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://www.apsattv.com/sportstv.m3u"
         }
     ]
 }
