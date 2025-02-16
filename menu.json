@@ -12,7 +12,7 @@
             "label": "Sports",
             "extensionLabel": "IPTV",
             "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://www.apsattv.com/sportstv.m3u"
-        }
+        },
         {
             "icon": "movie",
             "label": "Movies",
