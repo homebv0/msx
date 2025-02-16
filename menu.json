@@ -8,6 +8,12 @@
             "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://raw.githubusercontent.com/gambler65/kongresi1908/2ad13de700f76a21f87fe30c3d3cd68646d7e78b/www.m3u"
         },
         {
+            "icon": "star",
+            "label": "Shqip2",
+            "extensionLabel": "Live",
+            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://raw.githubusercontent.com/gambler65/kongresi1908/2ad13de700f76a21f87fe30c3d3cd68646d7e78b/azra.m3u"
+        },
+        {
             "icon": "live-tv",
             "label": "Sports",
             "extensionLabel": "IPTV",
