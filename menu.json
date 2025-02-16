@@ -75,33 +75,9 @@
         },
         {
             "icon": "movie",
-            "label": "RedBox",
-            "extensionLabel": "TV",
-            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://www.apsattv.com/redbox.m3u"
-        },
-        {
-            "icon": "movie",
             "label": "FreeMoviesPlus",
             "extensionLabel": "TV",
             "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://www.apsattv.com/freemoviesplus.m3u"
-        },
-        {
-            "icon": "movie",
-            "label": "Distro",
-            "extensionLabel": "TV",
-            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://www.apsattv.com/distro.m3u"
-        },
-        {
-            "icon": "movie",
-            "label": "CineVerse",
-            "extensionLabel": "TV",
-            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://www.apsattv.com/cineverse.m3u"
-        },
-        {
-            "icon": "cottage",
-            "label": "RokuChannel",
-            "extensionLabel": "TV",
-            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://www.apsattv.com/rok.m3u"
         }
     ]
 }
