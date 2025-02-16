@@ -5,7 +5,7 @@
             "icon": "star",
             "label": "Shqip",
             "extensionLabel": "Live",
-            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://iptv-org.github.io/iptv/languages/sqi.m3u"
+            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://raw.githubusercontent.com/darkangelne/dark/f64c3ab6ecbd4e9a819ac3440a1573ff8aa405ee/VIPNEWAPP/albania"
         },
         {
             "icon": "live-tv",
