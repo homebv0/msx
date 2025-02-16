@@ -8,11 +8,11 @@
             "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://iptv-org.github.io/iptv/languages/sqi.m3u"
         },
         {
-            "icon": "living",
-            "label": "Turkish",
-            "extensionLabel": "Live",
-            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://iptv-org.github.io/iptv/languages/tur.m3u"
-        },
+            "icon": "live-tv",
+            "label": "Sports",
+            "extensionLabel": "IPTV",
+            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://www.apsattv.com/sportstv.m3u"
+        }
         {
             "icon": "movie",
             "label": "Movies",
@@ -22,14 +22,20 @@
         {
             "icon": "sports-soccer",
             "label": "Sports",
-            "extensionLabel": "Live",
+            "extensionLabel": "Live TV",
             "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://iptv-org.github.io/iptv/categories/sports.m3u"
         },
         {
             "icon": "euro",
             "label": "Europe",
-            "extensionLabel": "EU",
+            "extensionLabel": "TV",
             "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://iptv-org.github.io/iptv/regions/emea.m3u"
+        },
+        {
+            "icon": "living",
+            "label": "Turkish",
+            "extensionLabel": "Live",
+            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://iptv-org.github.io/iptv/languages/tur.m3u"
         },
         {
             "icon": "live-tv",
@@ -44,22 +50,46 @@
             "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://www.apsattv.com/tcl.m3u"
         },
         {
-            "icon": "live-tv",
-            "label": "Sports",
-            "extensionLabel": "IPTV",
-            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://www.apsattv.com/sportstv.m3u"
-        },
-        {
             "icon": "cottage",
             "label": "LG",
             "extensionLabel": "TV",
             "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://www.apsattv.com/lg.m3u"
         },
         {
+            "icon": "cottage",
+            "label": "Xiaomi",
+            "extensionLabel": "TV",
+            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://www.apsattv.com/xiaomi.m3u"
+        },
+        {
+            "icon": "cottage",
+            "label": "Vizio TV",
+            "extensionLabel": "TV",
+            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://www.apsattv.com/vizio.m3u"
+        },
+        {
+            "icon": "cottage",
+            "label": "ZEASN",
+            "extensionLabel": "TV",
+            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://www.apsattv.com/zeasn.m3u"
+        },
+        {
+            "icon": "movie",
+            "label": "RedBox",
+            "extensionLabel": "TV",
+            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://www.apsattv.com/redbox.m3u"
+        },
+        {
             "icon": "movie",
             "label": "FreeMoviesPlus",
             "extensionLabel": "TV",
             "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://www.apsattv.com/freemoviesplus.m3u"
+        },
+        {
+            "icon": "movie",
+            "label": "Distro",
+            "extensionLabel": "TV",
+            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://www.apsattv.com/distro.m3u"
         },
         {
             "icon": "movie",
