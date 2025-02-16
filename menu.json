@@ -3,30 +3,6 @@
     "menu": [
         {
             "icon": "star",
-            "label": "Shqip",
-            "extensionLabel": "Live",
-            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://raw.githubusercontent.com/gambler65/kongresi1908/2ad13de700f76a21f87fe30c3d3cd68646d7e78b/www.m3u"
-        },
-        {
-            "icon": "star",
-            "label": "Shqip2",
-            "extensionLabel": "Live",
-            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://raw.githubusercontent.com/gambler65/kongresi1908/2ad13de700f76a21f87fe30c3d3cd68646d7e78b/azra.m3u"
-        },
-        {
-            "icon": "star",
-            "label": "Shqip3",
-            "extensionLabel": "Live",
-            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://raw.githubusercontent.com/UnknownMasterz/iptvs/ca9327b4d9a16fb6640a2ada3a3642c9ab18dbfe/iptv"
-        },
-        {
-            "icon": "sports-soccer",
-            "label": "SportsAL",
-            "extensionLabel": "Live TV",
-            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://raw.githubusercontent.com/ShikoTV/ShikoTvPlaylist/1c35e847b024f9bf6cbfaff42198c52d82705a1e/PlaylistALSport.m3u"
-        },
-        {
-            "icon": "star",
             "label": "Shqip XK",
             "extensionLabel": "Live",
             "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://raw.githubusercontent.com/iptv-org/iptv/3dc97cd8357878a0c268aeb99d4a3db41458fd20/streams/xk.m3u"
