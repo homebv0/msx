@@ -75,6 +75,12 @@
         },
         {
             "icon": "movie",
+            "label": "Tablo",
+            "extensionLabel": "TV",
+            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://www.apsattv.com/tablo.m3u"
+        },
+        {
+            "icon": "movie",
             "label": "FreeMoviesPlus",
             "extensionLabel": "TV",
             "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://www.apsattv.com/freemoviesplus.m3u"
