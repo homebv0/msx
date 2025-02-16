@@ -32,12 +32,6 @@
             "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://iptv-org.github.io/iptv/regions/emea.m3u"
         },
         {
-            "icon": "star",
-            "label": "Kosova",
-            "extensionLabel": "RKS",
-            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://iptv-org.github.io/iptv/countries/xk.m3u"
-        },
-        {
             "icon": "live-tv",
             "label": "Free TV",
             "extensionLabel": "IPTV",
@@ -46,7 +40,7 @@
         {
             "icon": "cottage",
             "label": "tcl",
-            "extensionLabel": "VideoOnDemand",
+            "extensionLabel": "TV",
             "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://www.apsattv.com/tcl.m3u"
         },
         {
@@ -56,16 +50,28 @@
             "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://www.apsattv.com/sportstv.m3u"
         },
         {
-            "icon": "live-tv",
-            "label": "Sports",
-            "extensionLabel": "IPTV",
-            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://www.apsattv.com/sportstv.m3u"
+            "icon": "cottage",
+            "label": "LG",
+            "extensionLabel": "TV",
+            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://www.apsattv.com/lg.m3u"
         },
         {
             "icon": "movie",
-            "label": "MoviesVOD",
-            "extensionLabel": "VOD",
-            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://raw.githubusercontent.com/mickflix/Mickflix-IPTV/master/playlist.m3u"
+            "label": "FreeMoviesPlus",
+            "extensionLabel": "TV",
+            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://www.apsattv.com/freemoviesplus.m3u"
+        },
+        {
+            "icon": "movie",
+            "label": "CineVerse",
+            "extensionLabel": "TV",
+            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://www.apsattv.com/cineverse.m3u"
+        },
+        {
+            "icon": "cottage",
+            "label": "RokuChannel",
+            "extensionLabel": "TV",
+            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://www.apsattv.com/rok.m3u"
         }
     ]
 }
