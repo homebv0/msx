@@ -3,9 +3,9 @@
     "menu": [
         {
             "icon": "star",
-            "label": "IPTV LLC",
+            "label": "Shqip",
             "extensionLabel": "Live",
-            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://iptv.llc"
+            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://raw.githubusercontent.com/saif-uddin-shrabon/IPFILE/bf11ce91964d87b7748f748bb649b25941e769c0/sqi.m3u"
         },
         {
             "icon": "live-tv",
