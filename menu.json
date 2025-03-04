@@ -84,6 +84,12 @@
             "label": "FreeMoviesPlus",
             "extensionLabel": "TV",
             "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://www.apsattv.com/freemoviesplus.m3u"
+        },
+        {
+            "icon": "movie",
+            "label": "RealMadrid vs Atletico",
+            "extensionLabel": "TV",
+            "data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://d116c8xb0ab4si.cloudfront.net/out/v1/edb4c2a797964dd289e77166614f40e5/index.m3u8"
         }
     ]
 }
